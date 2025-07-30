@@ -1,0 +1,8 @@
+langchain-postgres
+psycopg2-binary
+pymongo
+langchain-core
+langgraph
+langsmith
+langchain
+langchain-groq
