@@ -10,3 +10,5 @@ langchain-google-genai
 beautifulsoup4
 langchain-community
 langchain-ollama
+asyncpg
+greenlet
